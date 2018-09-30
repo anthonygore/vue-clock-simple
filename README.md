@@ -25,7 +25,7 @@ Include the script file, then install the component with `Vue.use(VueClock);` e.
 ### Module
 
 ```js
-import VueClock from 'vue-clock';
+import VueClock from 'vue-clock-simple';
 ```
 
 ## Usage
